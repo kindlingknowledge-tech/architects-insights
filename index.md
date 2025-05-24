@@ -8,12 +8,12 @@ Explore articles, blueprints, and real-world implementation strategies designed 
 
 ## What's Inside
 
-- [About the Author](about_the_author.md)
-- [Cloud-Native Architecture](cloud-native/overview.md)
-- [AI & Agentic Systems](genai/agents.md)
-- [Security & Encryption](security/encryption.md)
+- [About the Author](https://kindlingknowledge-tech.github.io/about-me/)
+- [Cloud-Native Architecture](/knowledge-base/cloud-native/overview.md)
+- [AI & Agentic Systems](knowledge-base/genai/agents.md)
+- [Security & Encryption](knowledge-base/security/encryption.md)
 - [Rate Limiting Strategies](api/rate-limiting.md)
-- [Identity & Access Control](iam/keycloak-customizations.md)
+- [Identity & Access Control](knowledge-base/iam/keycloak-customizations.md)
 
 ---
 
