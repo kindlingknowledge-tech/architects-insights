@@ -1,7 +1,4 @@
 # Anti-Patterns in Microservices: Technical, Design, and Solution Pitfalls
-*Author: RnD*  
-*Date: 2025-05-24*
-
 ---
 
 ## Introduction
