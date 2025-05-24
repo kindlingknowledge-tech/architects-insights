@@ -8,7 +8,7 @@ Whether you're a developer, architect, or product engineer, this repository offe
 
 ---
 
-### About the Author
+### About me
 
 Hi, I'm **Krishna Kumar Akurathi**, a **Cloud-Native Architect** and **AI Solution Designer** with over **17 years of experience** in building **scalable, secure, and stable enterprise-grade applications**.
 
@@ -67,7 +67,6 @@ knowledge-base/
 └── README.md
 ```
 
-- Markdown-first, diagram-backed documentation
 - Easily navigable through GitHub Pages: [View Site](https://kindlingknowledge-tech.github.io/architects-insights/knowledge-base/)
 
 ---
