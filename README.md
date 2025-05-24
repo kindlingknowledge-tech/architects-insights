@@ -8,6 +8,11 @@ Whether you're a developer, architect, or product engineer, this repository offe
 
 ---
 
+## **About the Author**
+
+I’m a cloud-native architect and product engineer passionate about building secure, scalable systems and exploring the intersections of AI and architecture.  
+This repo is part of my continuous effort to **learn, apply, and share**.
+
 ## **What’s Inside**
 
 | Category        | Topics Covered                                                             |
@@ -37,7 +42,7 @@ knowledge-base/
 ```
 
 - Markdown-first, diagram-backed documentation
-- Easily navigable through GitHub Pages: [View Site](https://yourusername.github.io/knowledge-base/)
+- Easily navigable through GitHub Pages: [View Site](https://kindlingknowledge-tech.github.io/architects-insights/knowledge-base/)
 
 ---
 
@@ -45,15 +50,8 @@ knowledge-base/
 
 - Browse topics by folder.
 - Click `.md` files to view content directly.
-- Use `index.md` as the homepage for GitHub Pages.
-- Diagrams are located under `/assets/diagrams/`.
 
 ---
-
-## **About the Author**
-
-I’m a cloud-native architect and product engineer passionate about building secure, scalable systems and exploring the intersections of AI and architecture.  
-This repo is part of my continuous effort to **learn, apply, and share**.
 
 ---
 
