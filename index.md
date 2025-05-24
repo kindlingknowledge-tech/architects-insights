@@ -9,10 +9,10 @@ Explore articles, blueprints, and real-world implementation strategies designed 
 ## What's Inside
 
 - [About the Author](https://kindlingknowledge-tech.github.io/about-me/)
-- [Cloud-Native Architecture](/architects-insights/knowledge-base/cloud-native/overview.md)
-- [AI & GenAI](/architects-insights/knowledge-base/genai/agents.md)
-- [Security](/architects-insights/knowledge-base/security/encryption.md)
-- [Architecture](/architects-insights/knowledge-base/architecture-overview.md)
+- [Cloud-Native Architecture](/knowledge-base/cloud-native/overview.md)
+- [AI & GenAI](/knowledge-base/genai/agents.md)
+- [Security](/knowledge-base/security/encryption.md)
+- [Architecture](/knowledge-base/architecture-overview.md)
 - [Identity & Access Control](knowledge-base/iam/keycloak-customizations.md)
 
 ---
