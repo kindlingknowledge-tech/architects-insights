@@ -1,3 +1,8 @@
+---
+layout: default
+title: About the Author
+---
+
 ### About the Author
 
 Hi, I'm **Krishna Kumar Akurathi**, a **Cloud-Native Architect** and **AI Solution Designer** with over **17 years of experience** in building **scalable, secure, and stable enterprise-grade applications**.
