@@ -2,7 +2,7 @@
 
 **Design Smarter. Build Secure. Document Deep.**
 
-Welcome to my personal knowledge base — a curated collection of architecture patterns, GenAI workflows, and secure design principles built for modern, scalable systems.
+Welcome to my personal knowledge base — a curated collection of architecture patterns, GenAI workflows, cloud-native practices, and secure design principles built for modern, scalable systems.
 
 Whether you're a developer, architect, or product engineer, this repository offers insights and technical artifacts drawn from real-world experiences and continuous learning.
 
@@ -10,12 +10,13 @@ Whether you're a developer, architect, or product engineer, this repository offe
 
 ## **What’s Inside**
 
-| Category     | Topics Covered |
-|--------------|----------------|
+| Category        | Topics Covered                                                             |
+|----------------|------------------------------------------------------------------------------|
 | **Architecture** | Keycloak flows, encrypted login, event-driven systems, cloud-native design |
-| **GenAI**        | LLMs vs Lite LLMs, multi-agent workflows, tokenization strategies |
-| **Security**     | OAuth token exchange, MongoDB encryption, password encryption techniques |
-| **Diagrams**     | Sequence flows, architectural charts, mermaid-based visualizations |
+| **GenAI**         | LLMs vs Lite LLMs, multi-agent workflows, tokenization strategies          |
+| **Security**      | OAuth token exchange, MongoDB encryption, password encryption techniques   |
+| **Cloud Native**  | Microservices patterns, observability, container orchestration             |
+| **Diagrams**      | Sequence flows, architectural charts, mermaid-based visualizations         |
 
 ---
 
@@ -26,6 +27,7 @@ knowledge-base/
 ├── architecture/
 ├── genai/
 ├── security/
+├── cloud-native/
 ├── assets/
 │   ├── diagrams/
 │   └── styles/
